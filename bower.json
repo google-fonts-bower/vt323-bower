@@ -1,0 +1,17 @@
+{
+    "name": "vt323-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Peter Hull"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/vt323-bower.git"
+    },
+    "description": "VT323 font",
+    "keywords": [
+        "font",
+        "MONOSPACE"
+    ]
+}
